@@ -1,0 +1,7 @@
+﻿Answers to the guide questions:
+1. I added explanatory comments above key sections such as # Unit Conversion Factor, # Get initial input from the user, and # Ask if user wants to convert another distance. So I could clearly outline the program's logic and structure for anyone reading the code. 
+2. I renamed single-letter variables like x, y, z, and a to descriptive names such as kilometers, km_to_miles, miles, and user_choice, while also improving readability by adding proper spacing around operators and between code blocks. 
+3. In my README.md file, I included the project title, a detailed description, step-by-step instructions on how to run the script, required user inputs, sample execution output, and my name as the author. 
+4. These changes made the program much easier to understand because the descriptive variable names and inline comments immediately clarify what each line does without any guesswork. 
+5. I worked individually on this assignment, handling all tasks including code refactoring, writing the documentation, and managing the GitHub repository setup. 
+6. My GitHub repository can be accessed at: https://github.com/ralmijares/distance-calculator.pdf.git
